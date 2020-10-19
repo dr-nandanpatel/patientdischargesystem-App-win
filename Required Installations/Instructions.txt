@@ -1,0 +1,1 @@
+Add Tesseract to PATH: https://medium.com/quantrium-tech/installing-and-using-tesseract-4-on-windows-10-4f7930313f82
