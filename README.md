@@ -1,6 +1,6 @@
 # patientdischargesystem-App-win
 
-<B><H1> Creates Patient Discharge Reports Automatically at AIIMS, Jodhpur! </B>
+<B><H1> Creates Patient Discharge Reports Automatically at AIIMS, Jodhpur! <H1></B>
 
 1)  Download the repository and unzip its content to a folder on local disk.
 2)  Install Python 3.8.6 or Python 3.9 from the 'Requried Installations' folder and create a venv in the same python interpreter.
